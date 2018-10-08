@@ -1,3 +1,3 @@
 # C++ Ship Sinking
 
-Console oriented ship sinking game created with C++, enjoy!
+Console-based ship sinking game created with C++, enjoy!
